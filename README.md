@@ -79,8 +79,8 @@ Grouped in [src/config.py](src/config.py) — covers tech job boards, broader te
 ### Local development
 
 ```bash
-git clone https://github.com/headply/reddit_crawler.git
-cd reddit_crawler
+git clone https://github.com/headply/reddit-job-intelligence.git
+cd reddit-job-intelligence
 
 # Backend
 python -m venv .venv && . .venv/Scripts/activate    # or `.venv/bin/activate` on bash
